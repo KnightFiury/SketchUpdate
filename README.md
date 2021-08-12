@@ -16,7 +16,7 @@ After completing verification you can create a project. Simply click on "Add New
 ## Step 3 : Copying Api
 An api will be created automatically when you create a new project. You can simply copy the api of a project just by swipe that left or right...
 
-![Image 1] (https://raw.githubusercontent.com/Knight-Fiury/SketchUpdate/main/Screenshot_20210807-111129.png) 
+![Image 1] (https://octodex.github.com/images/yaktocat.png) 
 
 ## Step 4 : Using Api
 Now make a GET request through the api and you will get a response like below... 
