@@ -20,7 +20,7 @@ Your copied API should look like this
 ```https://sketchupdate.tk/data.php/?appId=[PROJECT_NAME]```
 
 ### Step 4 : Understanding Api Response
-A successful response will be like below... 
+A successful ```GET``` response will be like below... 
 ```json
 {
  "Server_Response":
