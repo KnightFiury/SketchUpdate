@@ -21,7 +21,7 @@ Your copied API should look like this
 
 ### Step 4 : Understanding Api Response
 A successful response will be like below... 
-```json
+```
 {
  "Server_Response":
      [
