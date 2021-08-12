@@ -21,5 +21,5 @@ An api will be created automatically when you create a new project. You can simp
 ## Step 4 : Using Api
 Now make a GET request through the api and you will get a response like below... 
 ```json
-[server_response:{}]
+{"Server_Response":[{"sendTo":"all","alertType":"sheet2","newVersion":"1.2","title":"Update App?","titleColor":"#000000","isSubtitle":"true","subtitle":"Download Size 10MB","description":"We recommend that you update to the latest version. You can keep using this app while downloading the update","descriptionColor":"#000000","appIcon":"https:\/\/sketchupdate.tk\/assets\/images\/favicon.png","appName":"Sketchupdate","mainBtnTxt":"Update","mainBtnTxtColor":"#FFFFFF","mainBtnBackColor":"#000000","mainBtn":"https:\/\/sketchupdate.tk","isExtraBtn":"true","extraBtnTxt":"dismiss","extraBtnTxtColor":"#000000","extraBtnBackColor":"#FFFFFF","extraBtn":"dismiss","isCancelable":"false","isOneTime":"false","backColor":"#FFFFFF","radius":"25","btnRadius":"25","isHeader":"true","time":"2021\/8\/7\/11\/10"}]}
 ```
