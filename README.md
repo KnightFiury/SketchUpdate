@@ -67,6 +67,8 @@ A successful ```GET``` response will be like below...
 ## Schedule The Update
 Using SketchUpdate you can set the time of your app updates just by clicking on the button next to "Send Update". After setting the time click on "Send Update" and you are done
 
+![Image 3](https://user-images.githubusercontent.com/86944710/129435210-45946179-c355-4f47-8cab-7b5d570dea32.jpg)
+
 ## Sample Project 
 2 sample projects are available for both Android Studio```.zip``` & Sketchware Pro```.swb``` users
 
