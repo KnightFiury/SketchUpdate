@@ -12,10 +12,11 @@ Download & complete registration. After that simply login. You have to verify yo
 
 ### Step 2 : Creating Project
 After completing verification you can create a project. Simply click on "Add New Project" to start. Give a name of your project for easy recognition and for the api. 
+![Image 1](https://user-images.githubusercontent.com/86944710/129434900-af79acbb-0667-41fe-9ed4-c75210e9e981.jpg)
 
 ### Step 3 : Copying Api
 An api will be created automatically when you create a new project. You can simply copy the api of a project just by swipe that left or right...
-![Image 1](https://user-images.githubusercontent.com/86944710/129220375-45c9733a-9067-4f95-961a-4da993560707.png)
+![Image 2](https://user-images.githubusercontent.com/86944710/129220375-45c9733a-9067-4f95-961a-4da993560707.png)
 Your copied API should look like this
 ```https://sketchupdate.tk/data.php/?appId=[PROJECT_NAME]```
 
