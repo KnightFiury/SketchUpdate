@@ -22,6 +22,7 @@ An api will be created automatically when you create a new project. You can simp
 
 Your copied API should look like this
 ```https://sketchupdate.tk/data.php/?appId=[PROJECT_NAME]```
+
 i.e. In this case the API is ```https://sketchupdate.tk/data.php/?appId=testing_4620```
 
 ### Step 4 : Understanding Api Response
