@@ -64,5 +64,5 @@ A successful ```GET``` response will be like below...
 }
 ```
 ## Sample Project 
-2 sample projects are available for both Android Studio(.zip) & Sketchware Pro(.swb) users
+2 sample projects are available for both Android Studio```.zip``` & Sketchware Pro```.swb``` users
 
