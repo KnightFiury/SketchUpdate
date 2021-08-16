@@ -1,6 +1,7 @@
 # SketchUpdate
 [![](https://jitpack.io/v/Knight-Fiury/SketchUpdate.svg)](https://jitpack.io/#Knight-Fiury/SketchUpdate)
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
+[![License: AGPL](https://img.shields.io/badge/License-AGPL-blue.svg)](https://github.com/Knight-Fiury/SketchUpdate/LICENSE)
 
 This is an app to add In-App-Update system in your app in minutes... 
 
