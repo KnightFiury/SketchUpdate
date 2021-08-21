@@ -67,6 +67,9 @@ A successful ```GET``` response will be like below...
      ]
 }
 ```
+### Step 5 : Add Dependency 
+
+### Step 6 : Handle Api Response
 
 ## Schedule The Update
 Using SketchUpdate you can set the time of your app updates just by clicking on the button next to "Send Update". After setting the time click on "Send Update" and you are done
