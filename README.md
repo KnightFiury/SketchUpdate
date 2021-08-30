@@ -16,6 +16,7 @@ You can notify specific users or all of them at once. Besides you can schedule t
  - [x] Supports OneTime Message Send
  - [x] Fully Customizable 
  - [ ] ~~Send Pop-up Notifications~~ 
+ - [ ] ~~No Branding or Watermark~~
 
 ## Download SketchUpdate
 You can download SketchUpdate from our website
