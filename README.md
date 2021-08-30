@@ -15,7 +15,7 @@ You can notify specific users or all of them at once. Besides you can schedule t
  - [x] Force or Unforce App Update
  - [x] Supports OneTime Message Send
  - [x] Fully Customizable 
- - [ ] Send Pop-up Notifications 
+ - [ ] ~~Send Pop-up Notifications~~ 
 
 ## Download SketchUpdate
 You can download SketchUpdate from our website
