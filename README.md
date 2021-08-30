@@ -10,13 +10,14 @@ You can notify specific users or all of them at once. Besides you can schedule t
 # Features 
  - [x] Full Free
  - [x] Simple Api Response 
+ - [x] Easy To Use
  - [x] Supports Specific User Update 
  - [x] Schedule Updates 
  - [x] Force or Unforce App Update
  - [x] Supports OneTime Message Send
  - [x] Fully Customizable 
+ - [x] No Branding or Watermark 
  - [ ] ~~Send Pop-up Notifications~~ 
- - [ ] ~~No Branding or Watermark~~
 
 ## Download SketchUpdate
 You can download SketchUpdate from our website
