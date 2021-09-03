@@ -80,17 +80,7 @@ A successful ```GET``` response will be like below...
 }
 ```
 ### Step 5 : Add Dependency
-Add it in your root build.gradle at the end of repositories:
-```
-    allprojects {
-        repositories {
-	    ...
-	    maven { url 'https://jitpack.io' }
-        }
-    }
-```
-Add the dependency
-```
+```groovy
     dependencies {
         implementation 'com.github.Knight-Fiury:SketchUpdate:1.0-alpha'
     }
