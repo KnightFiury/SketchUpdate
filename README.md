@@ -92,7 +92,7 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency
 ```
     dependencies {
-        implementation 'com.github.Knight-Fiury:SketchUpdate:Tag'
+        implementation 'com.github.Knight-Fiury:SketchUpdate:1.0-alpha'
     }
 ```
 
