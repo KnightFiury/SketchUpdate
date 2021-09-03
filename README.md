@@ -81,7 +81,13 @@ A successful ```GET``` response will be like below...
 ```
 ### Step 5 : Add Dependency 
 
-### Step 6 : Handle Api Response
+### Step 6 : Usage
+Call SketchUpdate Dialog Through This Code
+```java
+//Store The API Response in a String//
+//Here Response is The String//
+Sketchupdate.callDialog(Response, MainActivity.this);
+```
 
 ## Schedule The Update
 Using SketchUpdate you can set the time of your app updates just by clicking on the button next to "Send Update". After setting the time click on "Send Update" and you are done
