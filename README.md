@@ -91,7 +91,8 @@ Call SketchUpdate Dialog Through This Code
 ```java
 //Store The API Response in a String//
 //Here Response is The String//
-Sketchupdate.callDialog(Response, MainActivity.this);
+sketchupdate.callDialog(Response, MainActivity.this);
+//sketchupdate.callDialog(String, Activity);//
 ```
 
 ## Schedule The Update
