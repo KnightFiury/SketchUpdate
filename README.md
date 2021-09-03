@@ -81,9 +81,9 @@ A successful ```GET``` response will be like below...
 ```
 ### Step 5 : Add Dependency
 ```groovy
-    dependencies {
-        implementation 'com.github.Knight-Fiury:SketchUpdate:1.0-alpha'
-    }
+dependencies {
+    implementation 'com.github.Knight-Fiury:SketchUpdate:1.0-alpha'
+}
 ```
 
 ### Step 6 : Usage
