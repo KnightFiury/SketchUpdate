@@ -3,6 +3,7 @@
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Knight-Fiury/SketchUpdate/blob/main/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Knight-Fiury/SketchUpdate)
+![Website](https://img.shields.io/website?down_color=lightgray&down_message=Server%20Down&up_color=blue&up_message=Up%20%26%20Running&url=https%3A%2F%2Fsketchupdate.tk)
 [![Users](https://img.shields.io/endpoint?url=https://sketchupdate.tk/statistics/user.php)](https://sketchupdate.tk/#download)
 
 This is an app to add In-App-Update system in your app in minutes... 
