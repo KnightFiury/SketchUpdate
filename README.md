@@ -17,7 +17,7 @@ You can notify specific users or all of them at once. Besides you can schedule t
  - [x] Supports OneTime Message Send
  - [x] Fully Customizable 
  - [x] No Branding or Watermark 
- - [ ] ~~Send Pop-up Notifications~~ 
+ - [x] Send Pop-up Notifications
 
 ## Download SketchUpdate
 You can download SketchUpdate from our website
@@ -93,6 +93,13 @@ Call SketchUpdate Dialog Through This Code
 //Here Response is The String//
 sketchupdate.callDialog(Response, MainActivity.this);
 //sketchupdate.callDialog(String, Activity);//
+```
+Call SketchUpdate Notification Through This Code
+```java
+//Store The API Response in a String//
+//Here Response is The String//
+sketchupdate.callNotification(Response, getApplicationContext());
+\\sketchupdate.callNotification(String, Context);\\
 ```
 
 ## Schedule The Update
