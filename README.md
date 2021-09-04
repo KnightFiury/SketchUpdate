@@ -99,7 +99,7 @@ Call SketchUpdate Notification Through This Code
 //Store The API Response in a String//
 //Here Response is The String//
 sketchupdate.callNotification(Response, getApplicationContext());
-\\sketchupdate.callNotification(String, Context);\\
+//sketchupdate.callNotification(String, Context);//
 ```
 
 ## Schedule The Update
