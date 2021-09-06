@@ -14,6 +14,7 @@ You can notify specific users or all of them at once. Besides you can schedule t
  - [x] Full Free
  - [x] Simple Api Response 
  - [x] Easy To Use
+ - [x] Realtime UI Change
  - [x] Supports Specific User Update 
  - [x] Schedule Updates 
  - [x] Force or Unforce App Update
